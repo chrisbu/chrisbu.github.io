@@ -22,7 +22,7 @@ Particularly interested in:
 * Development best practices
 * Application Architecture
 
-but also a broad range of other technologies and topics including Python, ML, Raspberry Pi.
+and also a broad range of other technologies and topics including Python, ML, Raspberry Pi.
 
 
 ## Socials
